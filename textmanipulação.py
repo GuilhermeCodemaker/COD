@@ -3,6 +3,7 @@
 # frase.count('o') #contar quantas letras 'o' existe na frase
 # frase.count('o,0,13') #contar quantas letras 'o' existe na frase contando do caractere 0 até 0 13
 # frase.find('deo') #indica em que posição se encontra 'deo' que no caso caractere 11
+#frase.rfind #ou seja procurar do lado direito para o esquerdo
 # frase.find('Android') #essa palavra não existe, o operador iria retornar -1 
 # 'curso' in frase # Utilizando in o terminal vai retonar true or false 
 # frase.replace('Python','Android') #como o proprio nome diz vai reposicionar a palavra
