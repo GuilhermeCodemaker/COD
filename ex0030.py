@@ -4,3 +4,4 @@ if d%2 == 0:
     
 else:
     print('Este numero é impar: ')
+    
