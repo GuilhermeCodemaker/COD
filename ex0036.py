@@ -1,3 +1,7 @@
+h = input('Qual seu sexo m ou f (masculino ou feminino)? ')
+if  h == 'f':
+    print('Não há obrigatoriedade de mulheres se alistarem!')
+    print('Se deseja continuar com o alistamento digite seu ano de nascimento')
 ano = int(input(('Ano de nascimento: ')))
 idade = 2023 - ano 
 p = 18 - idade
