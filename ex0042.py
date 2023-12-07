@@ -19,7 +19,8 @@ if computador == 0:
         print('Você escolheu PAPEL e o computador pedra você GANHOU!')
     elif computador == 0 and escolhido == 2:
         print('Você escolheu TESOURA e o computador pedra você PERDEU!')
-
+    else:
+        print('JOGADA INVALIDA')
 if computador == 1:
     if computador == 1 and escolhido == 0:
         print('Você escolheu PEDRA e o computador PAPEL você PERDEU!')
@@ -27,7 +28,8 @@ if computador == 1:
         print('Você escolheu PAPEL e o computador PAPEL você EMPATOU!')
     elif computador == 1 and escolhido == 2:
         print('Você escolheu TESOURA e o computador PAPEL você GANHOU')
-
+    else:
+        print('JOGADA INVALIDA')
 if computador == 2:
     if computador == 2 and escolhido == 0:
         print('Você escolheu PEDRA e o computador TESOURA você GANHOU!')
@@ -35,3 +37,5 @@ if computador == 2:
         print('Você escolheu PAPEL e o computador TESOURA você PERDEU!')
     elif computador == 2 and escolhido == 2:
         print('Você escolheu TESOURA e o computador TESOURA você EMPATOU!')
+    else:
+        print('JOGADA INVALIDA')
