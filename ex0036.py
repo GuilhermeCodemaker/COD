@@ -1,3 +1,5 @@
+# ESTE PROGRAMA UTILIZA CONDIÇÕES ANINHADAS PARA FAZER O CADASTRO DE ALISTAMENTO MILITAR OBRIGATORIO.
+
 h = input('Qual seu sexo m ou f (masculino ou feminino)? ')
 if  h == 'f':
     print('Não há obrigatoriedade de mulheres se alistarem!')

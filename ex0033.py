@@ -1,3 +1,6 @@
+# ESTE PROGRAMA É FEITO COMO UM BOT DE BANCO CONFERINDO SE UMA PESSOA TEM OU NÃO CONDIÇÕES PARA UM EMPRESTIMO
+# COM BASE EM SEU SALARIO MENSAL
+
 vc = float(input('Qual o valor da casa?R$ '))
 sl = float(input('Qual seu salário mensal?R$ '))
 qa = float(input('Em quantos anos será paga? '))

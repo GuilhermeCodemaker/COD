@@ -1,3 +1,5 @@
+# ESTE PROGRAMA RECONHECE A IDADE DO ATLETA E O CLASSIFICA CONFORME A REGRA NACIONAL DE NATAÇÃO
+
 from datetime import date
 ano = int(input('Qaul o ano de seu nascimento? '))
 idade = ano - date.today().year

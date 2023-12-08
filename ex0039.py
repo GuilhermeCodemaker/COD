@@ -1,3 +1,5 @@
+# ESTE PROGRAMA RECONHECE POR MEIO DA MEDIDA DOS SEGMENTOS O TIPO DO TRIANGULO E SE PODE OU NÃO FORMAR UM TRIANGULO
+
 s1 = int(input('Segmento 1: '))
 s2 = int(input('Segmento 2: '))
 s3 = int(input('Segmento 3: '))

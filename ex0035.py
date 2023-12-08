@@ -1,3 +1,5 @@
+#Condições aninhadas para a conferir qual numero é maior que qual
+
 c = int(input('Primeiro número: '))
 v = int(input('Segundo número: '))
 

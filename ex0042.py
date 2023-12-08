@@ -1,3 +1,5 @@
+# ESTE PROGRAMA UTILIZA CONDIÇÕES ANINHADAS PARA FAZER UM JOGO DE JOKENPO (PEDRA, PAPEL E TESOURA)
+
 from random import randint
 from time import sleep
 

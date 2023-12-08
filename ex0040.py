@@ -1,3 +1,5 @@
+#ESTE PROGRAMA FAZ CALCULO DE IMC INDICE DE MASSA CORPORAL
+
 a = float(input('Qual sua altura? '))
 p = float(input('Qual seu peso? '))
 IMC = p / (a ** 2)

@@ -1,3 +1,5 @@
+# ESTE PROGRAMA SIMULA UMA MAQUINA DE CARTÃO APLICANDO JUROS E DESCONTOS CONFORME A OPÇÃO ESCOLHIDA
+
 print(10*'-=-','LOJAS PY',10*'-=-')
 Preco_compra = float(input('Qual o preço da compra? ')) 
 print('FORMAS DE PAGAMENTO')

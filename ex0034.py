@@ -1,3 +1,5 @@
+#ESTE PROGRAMA UTILIZA CONDIÇÕES ANINHADAS PARA CONVERTER UM NUMERO QUALQUER EM BINARIO, OCTAL E HEXADECIMAL
+
 n = int(input('Digite um número: '))
 print('[ 1 ]Converter para BINÁRIO ')
 print('[ 2 ]Converter para OCTAL')

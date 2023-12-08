@@ -1,3 +1,5 @@
+# ESTE PROGRAMA É UM CONTADOR DE 10 ATÉ 0 PARA FOGOS DE ARTIFICIO
+
 from time import sleep
 for d in range(10,-1,-1): 
     print(d),sleep(1)
